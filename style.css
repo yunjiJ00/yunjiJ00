@@ -1,0 +1,66 @@
+/* Desktop - 1 */
+
+position: relative;
+width: 1536px;
+height: 2138px;
+
+background: #FFFFFF;
+
+
+/* Yunji Jeong */
+
+position: absolute;
+width: 598px;
+height: 123px;
+left: 140px;
+top: 295px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;
+
+
+
+/* 📧 Email ⇒ heather2000@naver.com 😸 GitHub ⇒ https://github.com/yunjiJ00 🖥️ Tistory Blog ⇒ https://yunji00.tistory.com/ 📞 Phone Number ⇒ 010.5434.5465 🗓️ Birth Date ⇒ 2000.11.18 */
+
+position: absolute;
+width: 771px;
+height: 464px;
+left: 558px;
+top: 425px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* background 1 */
+
+position: absolute;
+width: 1536px;
+height: 295px;
+left: 0px;
+top: 0px;
+
+background: url(background.jpg);
+border-radius: 11px;
+
+
+/* 윤지사진 1 */
+
+position: absolute;
+width: 356px;
+height: 513px;
+left: 140px;
+top: 418px;
+
+background: url(윤지사진.jpg);
