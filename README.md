@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     
 <!-- 프로그래밍 언어 -->
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ Available Languages </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖥️ Skills </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -81,7 +81,6 @@ Here are some ideas to get you started:
 <!-- 깃헙 정보 -->
 ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=yunjiJ00&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 3D 잔디 -->
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)
