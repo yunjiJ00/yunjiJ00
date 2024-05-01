@@ -54,15 +54,21 @@
          <a href=https://blog.naver.com/yunji00_1118> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/yunji00_1118"> </a>
          <a href=https://yunji00.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://yunji00.tistory.com/"> </a>
          <a href=https://yunji00.notion.site/Yunji-Jeong-ef50d2de38c94483bf1fc23519934323?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://yunji00.notion.site/Yunji-Jeong-ef50d2de38c94483bf1fc23519934323?pvs=4"> </a>
-         <a href=mailto:yunjijeong00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yunjijeong00@gmail.com"> </a>
+         <a href=mailto:heather2000@dgu.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heather2000@dgu.ac.kr"> </a>
           </div>  <br> 
-
-
- 
+    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyunjiJ00%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    
 <!-- 깃헙 정보 -->
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br>
-![Yunji's github stats](https://github-readme-stats.vercel.app/api?username=yunjiJ00&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&theme=onedark)
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <div align= "center"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=yunjiJ00&bg_color=60,e796e9,72aeee&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&bg_color=60,e796e9,72aeee&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+
 
 <!-- 3D 잔디 -->
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)
