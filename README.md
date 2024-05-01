@@ -60,7 +60,7 @@
 
  
 <!-- 깃헙 정보 -->
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br>
 ![Yunji's github stats](https://github-readme-stats.vercel.app/api?username=yunjiJ00&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&theme=onedark)
 
