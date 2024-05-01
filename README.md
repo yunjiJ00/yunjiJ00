@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 </p>
  
 <!-- 깃헙 정보 -->
-![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)    
+![gichan's github stats](https://github-readme-stats.vercel.app/api?username=yunjijeong&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjijeong&layout=compact&theme=onedark)    
 
 <!-- 3D 잔디 -->
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)
