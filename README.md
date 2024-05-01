@@ -1,9 +1,9 @@
 <div align=center>
         
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e29ef0,100:b7c1f0&height=200&text=Yunji%20JEONG😁&animation=&fontColor=ffffff&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e29ef0,100:b7c1f0&height=200&text=😁Yunji%20JEONG😁&animation=&fontColor=ffffff&fontSize=70)
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-😁Self-Introduction</h2><br>
+🙌Self-Introduction</h2><br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
         I'm Yunji who lives happily every day. </h2>  
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-🙌 Tech Stacks </h2><br>
+🎲Tech Stacks </h2><br>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white"/>
@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-🧑‍💻 Contact me </h2><br>
+🧑‍💻Contact me </h2><br>
 <a href=https://yunji00.tistory.com/> 
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://yunji00.tistory.com/"> </a>
 <a href=https://yunji00.notion.site/Yunji-Jeong-ef50d2de38c94483bf1fc23519934323?pvs=4> 
@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:heather2000@dgu.ac.kr"> </a>
             
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-🏅 Stats </h2><br>
+🏅Stats </h2><br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yunjiJ00&theme=monokai&title_color=ffffff&text_color=ffffff"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&bg_color=60,e796e9,72aeee&title_color=ffffff&text_color=ffffff"/> 
 
