@@ -56,21 +56,18 @@
          <a href=https://yunji00.notion.site/Yunji-Jeong-ef50d2de38c94483bf1fc23519934323?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://yunji00.notion.site/Yunji-Jeong-ef50d2de38c94483bf1fc23519934323?pvs=4"> </a>
          <a href=mailto:yunjijeong00@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yunjijeong00@gmail.com"> </a>
           </div>  <br> 
+
+<!-- 깃허브 상태 -->
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunjiJ00%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
           </div>
     </div>
-
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=YunjiJ00&bg_color=60,cd93ec,a1b2f7&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunjiJ00&layout=compact&bg_color=60,cd93ec,a1b2f7&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-  
  
 <!-- 깃헙 정보 -->
-![gichan's github stats](https://github-readme-stats.vercel.app/api?username=yunjiJ00&show_icons=true)
+![Yunji's github stats](https://github-readme-stats.vercel.app/api?username=yunjiJ00&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&theme=onedark)
 
 <!-- 3D 잔디 -->
