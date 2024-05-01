@@ -71,7 +71,7 @@
 
 
 <!-- 3D 잔디 -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 포트폴리오 --> https://yunjij00.github.io/yunjijeong/
