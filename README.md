@@ -80,7 +80,8 @@ Here are some ideas to get you started:
  
 <!-- 깃헙 정보 -->
 ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=yunjiJ00&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&theme=onedark)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 3D 잔디 -->
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)
