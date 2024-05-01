@@ -68,9 +68,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&bg_color=60,e796e9,72aeee&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-
-<!-- 3D 잔디 -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 
 
 포트폴리오 --> https://yunjij00.github.io/yunjijeong/
