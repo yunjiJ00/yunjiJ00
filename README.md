@@ -74,7 +74,7 @@
             
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
 🏅Stats </h2><br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yunjiJ00&theme=monokai&title_color=ffffff&text_color=ffffff"/> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yunjiJ00&layout=compact&bg_color=60,e796e9,72aeee&title_color=ffffff&text_color=ffffff"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&bg_color=60,e796e9,72aeee&title_color=ffffff&text_color=ffffff"/> 
 
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)  
