@@ -70,7 +70,7 @@
     </div>
 
 <!-- 3D 잔디 -->
-![svg](https://raw.githubusercontent.com/yunjiJ00/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 포트폴리오 --> https://yunjij00.github.io/yunjijeong/
