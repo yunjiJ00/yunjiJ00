@@ -4,34 +4,50 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>replit</title>
+  <title>Yunji's Portfolio</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
 </head>
 
 <body>
-  <div class="nav">
-    Yunji Jeong
-    <div class="nav-items">
-      <div class="nav-item">About Me</div>
-      <div class="nav-item">Projects</div>
-      <div class="nav-item">Contact me</div>
+  <div class="header">
+    <div class="container"></div>
+    <div class="name"><strong>Yunji Jeong</strong></div>
+    <div class="line"></div>
+    <div class="menu">
+      <div class="item" onclick="scrollToSection('about')">About Me</div>
+      <div class="item" onclick="scrollToSection('intro')">Self-Introduction</div>
+      <div class="item" onclick="scrollToSection('skills')">Skills</div>
+      <div class="item" onclick="scrollToSection('projects')">Projects</div>
+      <div class="item" onclick="scrollToSection('contact')">Contact Me</div>
+    </div>
+    <div class="line"></div>
+  </div>
+  <div id="about" class="section">
+    <h2><strong>About Me</strong></h2>
+    <div class="content">
+      <img src="images/profile_img.jpg" alt="Profile Image">
+      <div class="text">
+        <h5><strong>Name : Yunji Jeong (정윤지)</strong></h5>
+        <h5><strong>Birth Date : 2000.11.18</strong></h5>
+        <h5><strong>Nationality : Republic of Korea</strong></h5>
+        <br>
+        <h5><strong>Undergraduate student of class &lsquo;20</strong></h5>
+        <h5><strong>Majoring in information and communication engineering at Dongguk University.</strong></h5>
+      </div>
     </div>
   </div>
-  <div class="main">
-    <div class="title">
-      Yunji JEONG
-    </div>
-    <div class="subtitle">
-      AIoT Research & Developer
-    </div>
+  <div id="intro" class="section">
+    <h2>Self-Introduction</h2>
   </div>
-  <div class="profile">
-    <img src="images/profile_img.jpg" width="200px" height="200px"/>
-    <ul class="in_profile">
-      <li style="font-size:20px">Name : Yunji Jeong (정윤지)</li>
-      <li style="font:20px">Birth : 2000.11.18</li>
-      <li style="font:20px">Nationality : Republic of Korea</li>
-    </ul>
+  <div id="skills" class="section">
+    <h2>Skills & Certification</h2>
+  </div>
+  <div id="projects" class="section">
+    <h2>Projects</h2>
+  </div>
+  <div id="contact" class="section">
+    <h2>Contact Me</h2>
   </div>
   <script src="script.js"></script>
 </body>
