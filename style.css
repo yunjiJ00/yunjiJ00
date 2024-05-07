@@ -40,27 +40,38 @@ body{
   text-align: center;
   padding: 110px 0 50px;
 }
-.section .for-image {
-  display: flex;
+.section .content {
+  text-align: center;
   align-items: center;
-  justify-content: center;
-}
-.section .contect {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
 }
-.section .for-image img {
+.section .content .for-image {
+  margin-right: 20px;
+}
+.section .content .for-image img {
   height: 385px;
   width: auto;
   margin-right: 20px;
   border-radius: 10px;
 }
-.section .for-image .text_a {
+.section .content .text-a {
   text-align: left;
 }
 .section .content .text {
   text-align: justify;
-  padding-left: 100px;
-  padding-right: 100px;
+}
+.section .content .table {
+  text-align: left;
+}
+.left-side, :right-side {
+  width: 48%;
+}
+.left-side {
+  text-align: left;
+}
+:right-side {
+  text-align: left;
 }
