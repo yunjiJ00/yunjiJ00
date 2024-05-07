@@ -45,7 +45,8 @@ body{
   align-items: center;
   display: flex;
   justify-content: center;
-  padding: 110px 0 50px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 .section .content .for-image {
   margin-right: 30px;
