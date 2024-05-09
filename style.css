@@ -36,28 +36,44 @@ body{
   padding: 10px 0;
   cursor: pointer;
 }
+.first-section {
+  text-align: center;
+  padding-top: 150px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.first-section .content {
+  align-items: left;
+  display: flex;
+  justify-content: center;
+}
+.first-section .first-left-side {
+  float: right;
+  width: 40%
+  margin-right: 30px;
+  flex-direction: row-reverse;
+}
+.first-section .first-left-side img {
+  height: 385px;
+  width: auto;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.first-section .first-right-side {
+  float: right;
+  width: 60%
+  text-align: left;
+}
 .section {
   text-align: center;
-  padding: 110px 0 50px;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 .section .content {
   text-align: center;
   align-items: center;
   display: flex;
   justify-content: center;
-  padding-left: 100px;
-  padding-right: 100px;
-}
-.section .content .for-image {
-  margin-right: 30px;
-}
-.section .content .for-image img {
-  height: 385px;
-  width: auto;
-  border-radius: 10px;
-}
-.section .content .text-a {
-  text-align: left;
 }
 .section .content .text {
   text-align: justify;
@@ -66,12 +82,51 @@ body{
   text-align: left;
   margin: 0 auto;
 }
-.left-side, :right-side {
-  width: 48%;
-}
-.left-side {
-  text-align: left;
-}
 .right-side {
   text-align: left;
+}
+.skill-container {
+  background-color: #bab5b5;
+  padding: 0 20px;
+  width: 80%;
+  box-sizing: border-box;
+  height: auto;
+  top: 0;
+  .skill-list {
+    margin: 0 auto;
+    width: 100%;
+    li {
+      position: relative;
+      margin-bottom: 32px;
+      padding-left: 6px;
+      .bar-container, .bar {  
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 3px;  
+        border-radius: 15px;
+        content: "";
+      }
+      .skill-name {
+        position: absolute;
+        left: 0;
+        top: -20px; /* 바 위에 위치하도록 설정합니다 */
+      }
+      .bar-container {
+        width: 100%;
+        background-color: #333;
+        
+        .bar {
+          top: 0;
+        }
+        .pct {
+          position: absolute;
+          top: -19px;
+          right: 0;
+          opacity: 0;
+          transition: opacity 0.3s linear;
+        }
+      }
+    }   
+  }
 }
