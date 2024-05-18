@@ -2,12 +2,14 @@
         
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e29ef0,100:b7c1f0&height=200&text=😁Yunji%20JEONG😁&animation=&fontColor=ffffff&fontSize=70)
 
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-🙌Self-Introduction</h2><br>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-        I'm Yunji who lives happily every day. </h2>  
+🙌Self-Introduction</h2>
 <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-        I am a student who dreams of becoming an AIoT developer. I am getting ready for the future by living happily every day. </div> 
+        I'm Yunji who lives happily every day. <br>
+        I am a student who dreams of becoming an AIoT developer. </div><br>
+<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+        Yunji's Portfolio --> https://yunjij00.github.io/portfolio/ </h3> 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
 🖥️Skills</h2><br>
@@ -79,5 +81,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjiJ00&layout=compact&bg_color=60,e796e9,72aeee&title_color=ffffff&text_color=ffffff"/> 
 
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)  
-
-포트폴리오 --> https://yunjij00.github.io/yunjijeong/
