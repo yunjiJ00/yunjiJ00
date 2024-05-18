@@ -9,7 +9,10 @@
         I'm Yunji who lives happily every day. <br>
         I am a student who dreams of becoming an AIoT developer. </div><br>
 <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-        Yunji's Portfolio --> https://yunjij00.github.io/portfolio/ </h3> 
+        Yunji's Portfolio </h3>
+<h4 style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+        https://yunji00.notion.site/Yunji-Jeong-ef50d2de38c94483bf1fc23519934323?pvs=4 <br>
+        https://yunjij00.github.io/portfolio/ </h4> 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
 🖥️Skills</h2><br>
