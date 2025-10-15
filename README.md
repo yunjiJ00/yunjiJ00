@@ -12,10 +12,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
         Yunji's Portfolio </h2>
 <h4 style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
-        
-[Notion Portfolio](https://yunji00.notion.site/Yunji-Jeong-ef50d2de38c94483bf1fc23519934323?pvs=4)
 
-[GitHub Page Portfolio](https://yunjij00.github.io/portfolio/)
 </h4> 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
