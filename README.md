@@ -9,8 +9,7 @@
         I'm Yunji who lives happily every day. <br>
         I am a student who dreams of becoming an AIoT developer. </div><br>
         
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
-        Yunji's Portfolio </h2>
+
 <h4 style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
 
 </h4> 
